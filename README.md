@@ -22,15 +22,5 @@ ouihuuiuiiuuiuiuiuiuiiuuiiuuiuiuiuiuiuiuiiuiu
 
 
 
-Alterando as configurações do sistema no servidor.
-Alterando as configurações do sistema no servidor.
-Alterando as configurações do sistema no servidor.
-Alterando as configurações do sistema no servidor.
-Alterando as configurações do sistema no servidor.
-Alterando as configurações do sistema no servidor.
-Alterando as configurações do sistema no servidor.
-Alterando as configurações do sistema no servidor.
-Alterando as configurações do sistema no servidor.
-Alterando as configurações do sistema no servidor.
-Alterando as configurações do sistema no servidor.
+"Alterando as configurações do sistema no servidor."
 
