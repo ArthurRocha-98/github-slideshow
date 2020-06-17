@@ -6,4 +6,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 
 EM TESTE
-Documento atualizado para o servidor na bruch develop. 
+
+Enviando documento para branch teste.
