@@ -14,4 +14,5 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 
 
-Atualizando documentos ao servidor para teste.
+
+Alterando as configurações do sistema no servidor.
